@@ -1,0 +1,4 @@
+testing/target
+build
+bin/solc
+node_modules/
